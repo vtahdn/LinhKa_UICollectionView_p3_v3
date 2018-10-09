@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item1</key>
+	<dict>
+		<key>title</key>
+		<string>Linh Ka Team No 1</string>
+		<key>code</key>
+		<string>38577372</string>
+		<key>images</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+		</array>
+		<key>content</key>
+		<string>https://www.facebook.com/linhkafc/     Vì nụ cười anh là thứ để em chờ đợi cả đời🙉❤️</string>
+	</dict>
+	<key>Item2</key>
+	<dict>
+		<key>title</key>
+		<string>Linh Ka Team No 2</string>
+		<key>code</key>
+		<string>74785993</string>
+		<key>images</key>
+		<array>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+			<string>13</string>
+			<string>14</string>
+			<string>15</string>
+			<string>16</string>
+		</array>
+		<key>content</key>
+		<string>https://www.facebook.com/linhkafc/     Trung Thu em vẫn một mình.. nếu anh cũng vậy thì mình đi chung🤣</string>
+	</dict>
+	<key>Item3</key>
+	<dict>
+		<key>title</key>
+		<string>Linh Ka Team No 3</string>
+		<key>code</key>
+		<string>39287499</string>
+		<key>images</key>
+		<array>
+			<string>17</string>
+			<string>18</string>
+			<string>19</string>
+			<string>20</string>
+			<string>21</string>
+			<string>22</string>
+			<string>23</string>
+		</array>
+		<key>content</key>
+		<string>https://www.facebook.com/linhkafc/     Đừng buồn vì ko có ai quan tâm mình❤
+Còn Ka nữa mà🤞🏻 Ai còn thức tâm sự đeeeeee</string>
+	</dict>
+	<key>Item4</key>
+	<dict>
+		<key>title</key>
+		<string>Linh Ka Team No 4</string>
+		<key>code</key>
+		<string>102894734</string>
+		<key>images</key>
+		<array>
+			<string>24</string>
+			<string>25</string>
+			<string>26</string>
+			<string>27</string>
+			<string>28</string>
+			<string>29</string>
+			<string>30</string>
+		</array>
+		<key>content</key>
+		<string>https://www.facebook.com/linhkafc/     Hello anh tên gì đây không phải thính đâu🙉</string>
+	</dict>
+	<key>Item5</key>
+	<dict>
+		<key>title</key>
+		<string>Linh Ka Team No 5</string>
+		<key>code</key>
+		<string>839020192</string>
+		<key>images</key>
+		<array>
+			<string>31</string>
+			<string>32</string>
+			<string>33</string>
+			<string>34</string>
+			<string>35</string>
+			<string>36</string>
+		</array>
+		<key>content</key>
+		<string>https://www.facebook.com/linhkafc/     Nhẹ nhàng ❤️</string>
+	</dict>
+	<key>Item6</key>
+	<dict>
+		<key>title</key>
+		<string>Linh Ka Team No 6</string>
+		<key>code</key>
+		<string>1093029385</string>
+		<key>images</key>
+		<array>
+			<string>37</string>
+			<string>38</string>
+			<string>39</string>
+			<string>40</string>
+			<string>41</string>
+			<string>42</string>
+			<string>43</string>
+		</array>
+		<key>content</key>
+		<string>https://www.facebook.com/linhkafc/     Ánh nắng của em 😁</string>
+	</dict>
+</dict>
+</plist>
